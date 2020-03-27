@@ -3,7 +3,6 @@ const cors = require('cors');
 const { errors } = require('celebrate')
 const routes = require('./routes');
 
-const port = 3333;
 const app = express();
 
 app.use(cors());
@@ -12,6 +11,4 @@ app.use(routes);
 app.use(errors());
 
 
-app.listen(port, function() {
-    console.log(`Server running on port ${port}...`);
-});
+module.exports = app;
