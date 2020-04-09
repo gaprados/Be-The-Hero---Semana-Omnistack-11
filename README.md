@@ -5,9 +5,9 @@ Techs utilizadas: NodeJS no back-end, React no front-end, React Native no mobile
 O app tem como função auxiliar ONGS arrecadar doações e encontrar pessoas que estejam dispostas a ajudar!
 
 A versão Desktop, exclusiva para as ONGS faz o cadastro de novas ONGS, criação de novos casos e controle de casos já existentes.
-![Desktop] (https://flic.kr/p/2iNjSU1)
+(https://flic.kr/p/2iNjSU1)
 
 A versão mobile é feita para aqueles que querem ajudar, podendo encontrar os casos das ONGS!
-![Mobile] (https://flic.kr/p/2iNnCNH) 
+(https://flic.kr/p/2iNnCNH) 
 
 Teste agora, faça um clone deste repositório e veja por si mesmo :)
